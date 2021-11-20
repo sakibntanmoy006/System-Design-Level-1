@@ -35,3 +35,8 @@ If you think that these can be improved in any way, please do suggest.
 
 ### 🎇 UDP Packet
 User Datagram Protocol (UDP) is a Transport Layer protocol. UDP is a part of the Internet Protocol suite, referred to as UDP/IP suite. Unlike TCP, it is an unreliable and connectionless protocol. So, there is no need to establish a connection prior to data transfer. 
+
+### 🎇 OSI Model
+<p align="center">
+	<img src="./img/OSI.png">
+</p>
