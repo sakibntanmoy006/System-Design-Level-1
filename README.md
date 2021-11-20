@@ -1,1 +1,1 @@
-[Back-end Roadmap](./img/home?year-2021-2)
+![System Design: Level 1](./img/home.png)
