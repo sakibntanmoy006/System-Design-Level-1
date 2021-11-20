@@ -28,3 +28,10 @@ Below you'll find a hand full topics that you can take and the technologies that
 If you think that these can be improved in any way, please do suggest.
 
 ## Day - 1
+
+### 🎇 How Internet Works
+
+![How Internet Works](./img/HIW.jpg)
+
+### 🎇 UDP Packet
+User Datagram Protocol (UDP) is a Transport Layer protocol. UDP is a part of the Internet Protocol suite, referred to as UDP/IP suite. Unlike TCP, it is an unreliable and connectionless protocol. So, there is no need to establish a connection prior to data transfer. 
